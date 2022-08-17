@@ -13,7 +13,7 @@ Detection of presence of melanoma using convolutional neural network.
 
 * Our aim is to build a CNN based model which can accurately predict the presence of melanoma and to provide a solution that can evaluate the images and alert dermatologist about the presence of melanoma which will reduce a lot of manual effort needed in diagnosis.
 
-## Structure of Assignment:
+## Structure of Case study:
 * Problem Statement
 * Business Objectives
 * Data Reading and Data Understanding
@@ -32,14 +32,13 @@ Detection of presence of melanoma using convolutional neural network.
 
 ## Technologies Used
 
-- Python version 3.8.8
+- Python version 3.9.13
 - numpy library version 1.20.1
 - pandas library version 1.2.4
 - matplotlib library version 3.3.4
 - seaborn library version 0.11.1
-- scikit-learn library version 0.24.1
-- statsmodels version 0.12.2
-- git version 2.34.0.windows.1
+- tensorflow library version 2.9.0
+- git version 2.33.0.windows.1
 
 
 ## References
