@@ -3,7 +3,7 @@ Detection of presence of melanoma using convolutional neural network.
 
 ## Table of Contents
 * General-information
-* Structure of Assignment
+* Structure of Case study
 * Conclusions
 * Technologies-used
 * Acknowledgements
